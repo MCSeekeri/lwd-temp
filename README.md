@@ -3,7 +3,7 @@
 
 [![lwd-temp's github stats](https://github-readme-stats-git-master.lwd-temp.vercel.app/api?username=lwd-temp)](https://github.com/anuraghazra/github-readme-stats)
 
-### 我们的工作水平
+### 我们的工作能力
 Python：生疏
 
 C：更生疏
@@ -12,7 +12,7 @@ C++：更生疏
 
 HTML：更生疏
 
-Javascript：仅限于复制粘贴
+Javascript：更生疏
 
 Shell：更生疏
 
