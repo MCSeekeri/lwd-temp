@@ -5,6 +5,9 @@
 
 [![Top Langs](https://github-readme-stats-git-master.lwd-temp.vercel.app/api/top-langs/?username=lwd-temp)](https://github.com/anuraghazra/github-readme-stats)
 ### 赞助
-
+<link rel="stylesheet" href="./afdian-card.min.css" />
+<script src="./afdian-card.min.js"></script>
+<div id="afdian"></div>
+<script>afdian("afdian","lwd-temp");</script>
 ### 成就
 * Arctic Code Vault Contributor
