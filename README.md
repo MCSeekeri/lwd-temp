@@ -23,6 +23,6 @@ https://afdian.net/@lwd-temp
 
 [![Top Langs](https://github-readme-stats-git-master.lwd-temp.vercel.app/api/top-langs/?username=lwd-temp)](https://github.com/anuraghazra/github-readme-stats)
 ### 赞助
-爱发电：[lwd-temp正在创作很多项目](https://afdian.net/@lwd-temp)
+[![爱发电](https://cdn.jsdelivr.net/gh/lwd-temp/lwd-temp/afd_support.svg)](https://afdian.net/@lwd-temp)
 ### 成就
 * Arctic Code Vault Contributor
