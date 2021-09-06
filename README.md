@@ -1,21 +1,3 @@
-# 爱发电的认证人员请看这里！！！
-https://afdian.net/@lwd-temp
-# 爱发电的认证人员请看这里！！！
-https://afdian.net/@lwd-temp
-# 爱发电的认证人员请看这里！！！
-https://afdian.net/@lwd-temp
-# 爱发电的认证人员请看这里！！！
-https://afdian.net/@lwd-temp
-# 爱发电的认证人员请看这里！！！
-https://afdian.net/@lwd-temp
-# 爱发电的认证人员请看这里！！！
-https://afdian.net/@lwd-temp
-# 爱发电的认证人员请看这里！！！
-https://afdian.net/@lwd-temp
-# 爱发电的认证人员请看这里！！！
-https://afdian.net/@lwd-temp
-# 爱发电的认证人员请看这里！！！
-https://afdian.net/@lwd-temp
 ### 你好
 恭喜你发现了[余教科团](https://github.com/lwd-temp/about-lwd-temp)职员Sunset、L、Misaka和其他相关人员的GitHub账号。[GPG公钥](https://cdn.jsdelivr.net/gh/lwd-temp/lwd-temp/lwd-temp_0xFDCB405A_public.asc)
 
