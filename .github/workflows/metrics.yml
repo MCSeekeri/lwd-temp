@@ -33,4 +33,4 @@ jobs:
           # plugin_rss: yes
           # plugin_rss_source: https://jekyll.lwd-temp.top/feed.xml  # RSS feed
           # plugin_rss_limit: 6                                  # Limit to 6 items
-          debug: yes
+          # debug: yes
