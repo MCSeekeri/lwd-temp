@@ -23,15 +23,14 @@ jobs:
           plugin_reactions: yes
           plugin_people: yes
           plugin_stargazers: yes
-          plugin_code: yes
-          plugin_code_lines: 30               # Only display snippets with less than 12 lines
-          plugin_code_load: 100               # Fetch 100 events from activity
-          plugin_code_visibility: public      # Only display snippets from public activity
+          # plugin_code: yes
+          # plugin_code_lines: 30               # Only display snippets with less than 12 lines
+          # plugin_code_load: 100               # Fetch 100 events from activity
+          # plugin_code_visibility: public      # Only display snippets from public activity
           plugin_activity: yes
-          plugin_achievements: yes
-          plugin_notable: yes
-          plugin_rss: yes
-          plugin_rss_source: https://jekyll.lwd-temp.top/feed.xml  # RSS feed
-          plugin_rss_limit: 6                                  # Limit to 6 items
+          # plugin_achievements: yes
+          # plugin_notable: yes
+          # plugin_rss: yes
+          # plugin_rss_source: https://jekyll.lwd-temp.top/feed.xml  # RSS feed
+          # plugin_rss_limit: 6                                  # Limit to 6 items
           debug: yes
-          verify: yes
