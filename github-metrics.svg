@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3562" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3841" class="">
     <defs>
         <style/>
     </defs>
@@ -2880,7 +2880,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>oct16/TimeCat</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2922,7 +2922,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fwwdn/sensitive-stop-words</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2956,7 +2956,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>luoye663/E5_vue</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2998,7 +2998,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sweetalert2/sweetalert2</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3530,7 +3530,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="37.92333333333333 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="38.026666666666664 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -3553,7 +3553,7 @@
                   
                   
                 </div>
-                                <div class="text">Repositories have been deployed 1367 times</div>
+                                <div class="text">Repositories have been deployed 1368 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -4114,21 +4114,21 @@
                     <section class="largeable-column-fields">
                         <div class="field">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/></svg>
-              From <span class="blue space">lwd-temp/BYR-Navi</span>
+              From <span class="blue space">lwd-temp/site-api</span>
             </div>
                         <div class="field">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-              Update README.md
+              Update staticapi.js
             </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">95865d09</span>
-                            <span class="code">README.md</span>
+                            <span class="code">19b5adc2</span>
+                            <span class="code">static/staticapi.js</span>
                             <span class="code">
-                                <span class="snippet additions">++1</span>
-                                <span class="snippet deletions">--1</span>
+                                <span class="snippet additions">++19</span>
+                                <span class="snippet deletions">--2</span>
                             </span>
                         </div>
                     </section>
@@ -4136,21 +4136,38 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -5,7 +5,7 @@</span>
-[![Donate](https://img.shields.io/badge/Donate-Coffee-A5673F.svg)][donate]
-
-# 关于此Repo
-<span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">基于BYR-Navi的自用导航页
-</span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">基于 BYR-Navi 的自用导航页
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1,5 +1,22 @@</span>
+<span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">console.log("Loaded JavaScript Snippet from API.");
+</span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">console.log("Loaded JavaScript snippet from API.");
 </span></span>
-向原作者表示崇高的敬意和诚挚的感谢</code>
+<span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">window.onload = function () {
+</span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">function steamStoreMsg() {
+</span></span><span class="token unchanged"><span class="token prefix unchanged"> </span><span class="token line">   document.body.innerHTML = "&lt;p&gt;请关注Steam商店在中国大陆的访问受阻问题。&lt;a href='https://jekyll.lwd-temp.top/article/steam-banned/'&gt;详细信息&lt;/a&gt;&lt;/p&gt;" + document.body.innerHTML;
+</span></span>};
+<span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">
+</span><span class="token prefix inserted">+</span><span class="token line">function ready(fn) {
+</span><span class="token prefix inserted">+</span><span class="token line">   if (document.addEventListener) {//标准浏览器
+</span><span class="token prefix inserted">+</span><span class="token line">       document.addEventListener('DOMContentLoaded', function () {
+</span><span class="token prefix inserted">+</span><span class="token line">           //注销时间，避免重复触发
+</span><span class="token prefix inserted">+</span><span class="token line">           document.removeEventListener('DOMContentLoaded', arguments.callee, false);
+</span><span class="token prefix inserted">+</span><span class="token line">           steamStoreMsg();//运行函数
+</span><span class="token prefix inserted">+</span><span class="token line">       }, false);
+</span><span class="token prefix inserted">+</span><span class="token line">   } else if (document.attachEvent) {//IE浏览器
+</span><span class="token prefix inserted">+</span><span class="token line">       document.attachEvent('onreadystatechange', function () {
+</span><span class="token prefix inserted">+</span><span class="token line">           if (document.readyState == 'complete') {
+</span><span class="token prefix inserted">+</span><span class="token line">               document.detachEvent('onreadystatechange', arguments.callee);
+</span><span class="token prefix inserted">+</span><span class="token line">               steamStoreMsg();//函数运行
+</span><span class="token prefix inserted">+</span><span class="token line">           }
+</span><span class="token prefix inserted">+</span><span class="token line">       });
+</span><span class="token prefix inserted">+</span><span class="token line">   }
+</span><span class="token prefix inserted">+</span><span class="token line">}</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Dec 2021, 12:28:32  with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 28 Dec 2021, 13:24:35  with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
