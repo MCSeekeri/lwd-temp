@@ -2880,7 +2880,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pkhungurn/talking-head-anime-2-demo</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3006,7 +3006,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>frida/frida</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3703,7 +3703,7 @@ Signed-off-by: dependabot-preview[bot] &lt;support@dependabot.com&gt;</span>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="56.11 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="56.21333333333334 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -3726,7 +3726,7 @@ Signed-off-by: dependabot-preview[bot] &lt;support@dependabot.com&gt;</span>
                   
                   
                 </div>
-                                <div class="text">Repositories have been deployed 1543 times</div>
+                                <div class="text">Repositories have been deployed 1544 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -4294,7 +4294,7 @@ Signed-off-by: dependabot-preview[bot] &lt;support@dependabot.com&gt;</span>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Jan 2022, 08:21:57  with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 4 Jan 2022, 09:18:25  with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
