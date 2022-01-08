@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="4009" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="4069" class="">
     <defs>
         <style/>
     </defs>
@@ -2258,7 +2258,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="71.71333333333334 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="71.81666666666666 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2280,7 +2280,7 @@
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 1694 times</div>
+                                <div class="text">Repositories have been deployed 1695 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -2823,54 +2823,47 @@
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
                             From
-                            <span class="blue space">lwd-temp/lwd-temp.github.io-jekyll</span>
+                            <span class="blue space">lwd-temp/steam-store-checker</span>
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            Append
+                            更新文档
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">18329f17</span>
-                            <span class="code">_posts/2022-01-02-anti-fraud-apis.md</span>
-                            <span class="code"><span class="snippet additions">++7</span> <span class="snippet deletions">--1</span></span>
+                            <span class="code">7422d28c</span>
+                            <span class="code">v2ex/使用方法.txt</span>
+                            <span class="code"><span class="snippet additions">++2</span> <span class="snippet deletions">--2</span></span>
                         </div>
                     </section>
                 </div>
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -4,7 +4,7 @@</span>
-date: 2022-01-02
-tags:  逆向工程 入狱警告 法律的边缘 Android
-categories: article
-<span class="token coord">---</span>
-<span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">听说“MIUI13内置反诈中心”的“传言”（现在该叫谣言了）突发兴致，取反诈中心apk文件，看着52pojie.cn的逆向教程，做个零基础逆向工程。</span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">冬日无事，听说“MIUI13内置反诈中心”的“传言”（现在该叫谣言了）突发兴致，取反诈中心apk文件，看着52pojie.cn的逆向教程，做个零基础逆向工程。</span></span>
-## 咱用了什么工具
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -2,15 +2,15 @@</span>
+��ģ�������Steam�̵꣩
+curl����.bat ping80����.bat ping443����.bat
+�۲쵽ping80����.bat ping443����.bat���������Port is open��
+<span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">��curl����.bat�а��������ȴ����󣬿ɹ۲쵽HTTP/1.1 200 OK����Զ����ݣ��������д�����Ϣ���쳣����</span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">��curl����.bat�а��������ȴ����󣬿ɹ۲쵽* Connection #0 to host store.steampowered.com left intact��������errno����ĵ��д�����Ϣ���쳣����</span></span>�����ظ� ��curl����.bat�а��������
+����curl����.bat������д�����Ϣ���쳣��֮ǰ�������У���ping443����.bat�г���No response��ʵ����֤�ɹ���
 
-@@ -662,6 +662,10 @@ public class d {
-
-剩下的东西零零散散也看不出什么，没有具体逻辑就不放出来了。
-
-<span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">期间折腾我的Android Studio虚拟设备安装Magisk失败按下不表，最后还是在实体机上运行的frida-server。</span><span class="token prefix inserted">+</span><span class="token line"></span><span class="token prefix inserted">+</span><span class="token line">至于我用的那个提取dex的脚本网上搜索便是，而且可能有bug，就不放出来误人子弟了。</span><span class="token prefix inserted">+</span><span class="token line"></span></span>## 总结一下？
-
-我个人感觉啊，这个项目里面好像技术难度最高的应该是那个360加固。
-@@ -677,3 +681,5 @@ UI风格有点辣眼睛，感觉像智能手机刚出来那会儿，那些个“
-有空给自己弄个gov.cn域名，看着气派。
-
-我奉劝各位，以后写Android App的时候千万别学他。
-<span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line"></span><span class="token prefix inserted">+</span><span class="token line">差不多也饿了，想起前些日子填充的方便面储备库，煮一碗“鲜虾鱼板”面，嘬一口汤，今天的钠离子摄入量又要超标了。</span></span></code>
+����������飺
+�����ʷ�Steam����������װ�Լ��ڷ���Steam�̵꣬��SNIαװ��
+curl���� - ������.bat ping80���� - ������.bat ping443���� - ������.bat
+�۲쵽ping80���� - ������.bat ping443���� - ������.bat���������Port is open��
+<span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">��curl���� - ������.bat�а��������ȴ����󣬿ɹ۲쵽HTTP/1.1 200 OK����Զ����ݣ��������д�����Ϣ���쳣����</span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">��curl���� - ������.bat�а��������ȴ����󣬿ɹ۲쵽* Connection #0 to host store.steampowered.com left intact��������errno����ĵ��д�����Ϣ���쳣����</span></span>�����ظ� ��curl���� - ������.bat�а��������
+����curl���� - ������.bat������д�����Ϣ���쳣��֮ǰ�������У���ping443���� - ������.bat�г���No response��ʵ����֤�ɹ���</code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Jan 2022, 20:18:36  with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 8 Jan 2022, 21:17:18  with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
