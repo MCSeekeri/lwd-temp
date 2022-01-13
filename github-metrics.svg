@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3592" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3808" class="">
     <defs>
         <style/>
     </defs>
@@ -1587,7 +1587,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tsoliangwu0130/chat-room</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A real-time chat room web application built with socket.io and Node.js.</div>
@@ -1640,7 +1640,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jgraph/drawio</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Source to app.diagrams.net</div>
@@ -1693,7 +1693,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Codennnn/vue-color-avatar</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An online avatar generator just for fun 🥳 一个纯前端实现的头像生成网站</div>
@@ -1746,7 +1746,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ivanseidel/IAMDinosaur</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🦄 An Artificial Inteligence to teach Google's Dinosaur to jump cactus</div>
@@ -2274,7 +2274,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="87.00666666666667 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="87.11000000000001 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2296,7 +2296,7 @@
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 1842 times</div>
+                                <div class="text">Repositories have been deployed 1843 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -2845,14 +2845,14 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            Update steam-banned
+                            Append
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">c79ac21f</span>
-                            <span class="code">_posts/2021-12-25-steam-banned.md</span>
+                            <span class="code">18329f17</span>
+                            <span class="code">_posts/2022-01-02-anti-fraud-apis.md</span>
                             <span class="code"><span class="snippet additions">++7</span> <span class="snippet deletions">--1</span></span>
                         </div>
                     </section>
@@ -2860,23 +2860,33 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1,5 +1,5 @@</span>
-<span class="token coord">---</span>
-<span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">title: 简报：Steam商店疑似出现访问故障（部分证实）</span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">title: 简报：Steam商店疑似出现访问故障（已证实）</span></span>date: 2021-12-25 22:22:00 +0800
-tags: Steam GitHub
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -4,7 +4,7 @@</span>
+date: 2022-01-02
+tags:  逆向工程 入狱警告 法律的边缘 Android
 categories: article
-@@ -724,3 +724,9 @@ traceroute to store.steampowered.com (69.192.208.101), 30 hops max, 60 byte pack
+<span class="token coord">---</span>
+<span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">听说“MIUI13内置反诈中心”的“传言”（现在该叫谣言了）突发兴致，取反诈中心apk文件，看着52pojie.cn的逆向教程，做个零基础逆向工程。</span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">冬日无事，听说“MIUI13内置反诈中心”的“传言”（现在该叫谣言了）突发兴致，取反诈中心apk文件，看着52pojie.cn的逆向教程，做个零基础逆向工程。</span></span>
+## 咱用了什么工具
 
-Thanks for using Steam,
-Michel C
-<span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line"></span><span class="token prefix inserted">+</span><span class="token line">2022-01-07更新</span><span class="token prefix inserted">+</span><span class="token line"></span><span class="token prefix inserted">+</span><span class="token line">冬促结束，情况依旧。</span><span class="token prefix inserted">+</span><span class="token line"></span><span class="token prefix inserted">+</span><span class="token line">{% include video id="BV13Z4y1S7iN" provider="bilibili" %}</span></span></code>
+@@ -662,6 +662,10 @@ public class d {
+
+剩下的东西零零散散也看不出什么，没有具体逻辑就不放出来了。
+
+<span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">期间折腾我的Android Studio虚拟设备安装Magisk失败按下不表，最后还是在实体机上运行的frida-server。</span><span class="token prefix inserted">+</span><span class="token line"></span><span class="token prefix inserted">+</span><span class="token line">至于我用的那个提取dex的脚本网上搜索便是，而且可能有bug，就不放出来误人子弟了。</span><span class="token prefix inserted">+</span><span class="token line"></span></span>## 总结一下？
+
+我个人感觉啊，这个项目里面好像技术难度最高的应该是那个360加固。
+@@ -677,3 +681,5 @@ UI风格有点辣眼睛，感觉像智能手机刚出来那会儿，那些个“
+有空给自己弄个gov.cn域名，看着气派。
+
+我奉劝各位，以后写Android App的时候千万别学他。
+<span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line"></span><span class="token prefix inserted">+</span><span class="token line">差不多也饿了，想起前些日子填充的方便面储备库，煮一碗“鲜虾鱼板”面，嘬一口汤，今天的钠离子摄入量又要超标了。</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Jan 2022, 19:14:53  with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 13 Jan 2022, 20:19:32  with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
