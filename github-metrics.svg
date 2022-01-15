@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3730" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3670" class="">
     <defs>
         <style/>
     </defs>
@@ -1560,7 +1560,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>VSCodium/vscodium</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">binary releases of VS Code without MS branding/telemetry/licensing</div>
@@ -1613,7 +1613,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>liangjingkanji/StatusBar</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🍥 Android 一行代码配置透明状态栏</div>
@@ -1666,7 +1666,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tldr-pages/tldr</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📚 Collaborative cheatsheets for console commands</div>
@@ -1719,7 +1719,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mozilla/hubs</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Duck-themed multi-user virtual spaces in WebVR. Built with A-Frame.</div>
@@ -2269,7 +2269,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="90.31333333333333 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="90.41666666666667 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2291,7 +2291,7 @@
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 1874 times</div>
+                                <div class="text">Repositories have been deployed 1875 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -2834,42 +2834,39 @@
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
                             From
-                            <span class="blue space">lwd-temp/lwd-temp.github.io-jekyll</span>
+                            <span class="blue space">lwd-temp/deploy-code-server</span>
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            Update 2022-01-09-news-genshin-skin-censoring.md
+                            Update Dockerfile
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">356580f2</span>
-                            <span class="code">_posts/2022-01-09-news-genshin-skin-censoring.md</span>
-                            <span class="code"><span class="snippet additions">++2</span> <span class="snippet deletions">--0</span></span>
+                            <span class="code">17c26cfd</span>
+                            <span class="code">Dockerfile</span>
+                            <span class="code"><span class="snippet additions">++1</span> <span class="snippet deletions">--0</span></span>
                         </div>
                     </section>
                 </div>
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -8,6 +8,8 @@</span>
-categories: article
-
-中国玩家群体在这一事件中积极行使公民权利的行为值得鼓励，同时也应注意到部分玩家针对目标泛化、“敌我”关系不清等问题应当及时处理。我们呼吁中国的文艺作品审核部门应当反思自身的职责和定位，不要让“为人民服务”成为一纸空谈。（本站记者余晖 2022年1月9日）
-
-<span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">[新闻专题页](https://gh.lwd-temp.top/site-cdn/genshin-skin-censoring/)</span><span class="token prefix inserted">+</span><span class="token line"></span></span>相关链接：
-
-[《原神》将修改部分角色外观，你有哪些建议？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/509909910)</code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -30,6 +30,7 @@</span>
+RUN sudo chown -R coder:coder /home/coder/.local
+RUN /usr/bin/code-server --install-extension ms-python.python &amp;&amp; \
+<span class="token unchanged"><span class="token prefix unchanged"></span><span class="token line">/usr/bin/code-server --install-extension equinusocio.vsc-material-theme &amp;&amp; \</span><span class="token prefix unchanged"></span><span class="token line">/usr/bin/code-server --install-extension pkief.material-icon-theme &amp;&amp; \</span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">/usr/bin/code-server --install-extension ms-ceintl.vscode-language-pack-zh-hans &amp;&amp; \</span></span><span class="token unchanged"><span class="token prefix unchanged"></span><span class="token line">/usr/bin/code-server --install-extension equinusocio.vsc-material-theme-icons</span></span>
+# Install apt packages:</code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Jan 2022, 00:59:39  with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 15 Jan 2022, 02:10:38  with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
