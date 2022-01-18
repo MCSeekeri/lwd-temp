@@ -1577,7 +1577,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>XINCGer/Unity3DTraining</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Unity的练习项目</div>
@@ -1630,7 +1630,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sickcodes/Docker-OSX</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X!</div>
@@ -1683,7 +1683,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>YunYouJun/yun</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">☁️ 小云设定资源大公开！</div>
@@ -1724,7 +1724,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>faker-js/faker</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Generate massive amounts of fake data in the browser and node.js</div>
@@ -1745,13 +1745,13 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        2.22k
+                                        2.23k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                         </svg>
-                                        210
+                                        212
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2398,7 +2398,7 @@ Signed-off-by: Gábor Lipták &lt;gliptak@gmail.com&gt;</span>
                                                     </defs>
                                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="103.95333333333333 155"/>
+                                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="104.05666666666667 155"/>
                                                     </svg>
                                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2420,7 +2420,7 @@ Signed-off-by: Gábor Lipták &lt;gliptak@gmail.com&gt;</span>
                                                     <span class="prefix">Master</span>
                                                     deployer
                                                 </div>
-                                                <div class="text">Repositories have been deployed 2006 times</div>
+                                                <div class="text">Repositories have been deployed 2007 times</div>
                                             </div>
                                         </div>
                                         <div class="achievement s largeable-width-half">
@@ -2963,40 +2963,48 @@ Signed-off-by: Gábor Lipták &lt;gliptak@gmail.com&gt;</span>
                                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                                             </svg>
                                             From
-                                            <span class="blue space">lwd-temp/lwd-temp.github.io-jekyll</span>
+                                            <span class="blue space">lwd-temp/deploy-code-server</span>
                                         </div>
                                         <div class="field">
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                             </svg>
-                                            Fix img path
+                                            Update 读我.md
                                         </div>
                                         <div class="field">
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                                             </svg>
-                                            <span class="code">2120e593</span>
-                                            <span class="code">_posts/2022-01-17-who-did-it.md</span>
-                                            <span class="code"><span class="snippet additions">++1</span> <span class="snippet deletions">--1</span></span>
+                                            <span class="code">cc286920</span>
+                                            <span class="code">读我.md</span>
+                                            <span class="code"><span class="snippet additions">++5</span> <span class="snippet deletions">--1</span></span>
                                         </div>
                                     </section>
                                 </div>
                                 <div class="row">
                                     <section class="snippet">
                                         <div class="body markdown">
-                                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -7,4 +7,4 @@</span>
-categories: article
+                                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -4,7 +4,7 @@</span>
 
-最近发生的诸多事使我决定修改这幅漫画，原作者未知。
+这里展示了部署此环境所需的配置文件。
 
-<span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">{% include figure image_path="assets\postres\2022-01-17-who-did-it\who_did_it_compressed.jpg" alt="Who did it?" caption="Who did it?" %}</span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">{% include figure image_path="/assets/postres/2022-01-17-who-did-it/who_did_it_compressed.jpg" alt="Who did it?" caption="Who did it?" %}</span></span></code>
+<span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">配置定位是一个美化的VSCode及适用于Python初学者的临时开发环境。</span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">配置定位是一个美化的VSCode及适用于Python初学者的临时开发环境，但似乎越来越偏向自己的喜好了。</span></span>
+如果你的App需要独立端口、需要系统级硬件控制、需要GUI或者大量运行资源，这个免费服务可能并不适合你。
+
+@@ -27,6 +27,10 @@ Visual Studio Code（简称 VS Code）是一款由微软开发且跨平台的免
+
+你眼前的是由第三方开发的VSCode的Web版，可以在浏览器中运行。
+
+<span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">（事实上这个Web版项目code-server移除了所有微软服务，严格上只能叫code-server不能加VS，只是上游代码库相同且*恰巧*界面风格、操作习惯等和VSCode一致，也因此不能直接从微软的Marketplace下载插件而是用了另一个开源插件来源）</span><span class="token prefix inserted">+</span><span class="token line"></span><span class="token prefix inserted">+</span><span class="token line">（微软发布的源码库是Code - OSS，Visual Studio Code is a distribution of the Code - OSS repository with Microsoft-specific customizations released under a traditional Microsoft product license.）</span><span class="token prefix inserted">+</span><span class="token line"></span></span>相关链接：[Visual Studio Code 中文手册](https://jeasonstudio.gitbooks.io/vscode-cn-doc/content/) [VS Code 零基础教程](https://www.bilibili.com/video/BV1ty4y1S7mC) [VScode最新版安装教程及入门使用](https://www.bilibili.com/video/BV1W5411h75Q) [code-server的代码库](https://github.com/coder/code-server)
+
+# 技术性细节</code>
                                         </div>
                                     </section>
                                 </div>
                             </section>
                             <footer>
                                 <span>These metrics include private contributions</span>
-                                <span>Last updated 18 Jan 2022, 20:19:47  with lowlighter/metrics@3.17.0</span>
+                                <span>Last updated 18 Jan 2022, 21:25:35  with lowlighter/metrics@3.17.0</span>
                             </footer>
                         </div>
                         <div id="metrics-end"></div>
