@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3670" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="4001" class="">
     <defs>
         <style/>
     </defs>
@@ -2248,7 +2248,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="115.21666666666665 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="115.32 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2270,7 +2270,7 @@
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 2115 times</div>
+                                <div class="text">Repositories have been deployed 2116 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -2819,29 +2819,29 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            在中国，任何超脱飞扬的思想都会砰然坠地的，现实的引力太沉重了。
+                            Update link
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">5be64d71</span>
-                            <span class="code">_config.yml</span>
-                            <span class="code"><span class="snippet additions">++1</span> <span class="snippet deletions">--1</span></span>
+                            <span class="code">7170744b</span>
+                            <span class="code">_posts/2022-01-15-sunset-s-mc-server.md</span>
+                            <span class="code"><span class="snippet additions">++4</span> <span class="snippet deletions">--3</span></span>
                         </div>
                     </section>
                 </div>
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -103,7 +103,7 @@</span><br />analytics:<br />author:<br /><span class="token unchanged"><span class="token prefix unchanged"></span><span class="token line"> name             : "lwd-temp"<br /></span><span class="token prefix unchanged"></span><span class="token line"> avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line"> bio              : "用伤害无辜者来掩盖自己的错误是心虚的体现，也永远掩盖不了。——Hannah_AI"<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line"> bio              : "在中国，任何超脱飞扬的思想都会砰然坠地的，现实的引力太沉重了。《三体》"<br /></span></span><span class="token unchanged"><span class="token prefix unchanged"></span><span class="token line"> location         : "SCP Foundation Site-CN-34"<br /></span><span class="token prefix unchanged"></span><span class="token line"> email            : "i@lwd-temp.top"<br /></span><span class="token prefix unchanged"></span><span class="token line"> links:</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -18,12 +18,12 @@</span><br />mc.lwd-temp.top<br /><br />如果您从未了解并安装过Minecraft Java版，可以在这里下载预先配置好的游戏客户端（只适用于64位现代Windows操作系统）。<br /><br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">[点击进入下载页面](https://lwdtemp-my.sharepoint.com/:u:/g/personal/lwd-temp_ms_lwd-temp_top/ES1fL5mm3WVLotJCeJMTRG0BqxvHuLF2tN2fJhcklkGXCg?e=HyB7TE)<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">[点击进入下载页面](https://lwdtemp-my.sharepoint.com/:u:/g/personal/lwd-temp_ms_lwd-temp_top/EZ2bALN-zfpMh5jIT4dxkjUB4X4YiatJ8GOxyA_Klq1Fvg?e=KK3vJ3)<br /></span></span><br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">已知问题：客户端可能不会默认使用独立显卡运行。如果问题发生，请使用显卡驱动程序提供的选项将客户端文件java.exe和javaw.exe设置为使用独立显卡运行。<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">已知问题：客户端可能不会默认使用独立显卡运行。如果问题发生，请使用显卡驱动程序提供的选项将客户端文件java.exe和javaw.exe设置为使用独立显卡运行，整合包内的设置脚本亦可执行此操作。<br /></span></span><br />```<br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">附带JDK环境的Minecraft 1.18.1 Fabulously Optimized整合包<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">附带JDK环境的Minecraft 1.18.1 Java版 Fabulously Optimized整合包<br /></span></span>整合包链接：https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files/3597420<br />整合包：Fabulously+Optimized-3.1.0-alpha.7<br />光影：ComplementaryShaders_v4.3.3<br />@@ -33,6 +33,7 @@ JDK采用OpenJDK<br />启动脚本说明：<br />常规用户请使用“运行客户端.bat”<br />启动适合客户端的Paper服务器请使用“运行服务器.bat”<br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">“使用独显运行附带的JDK可执行.bat”顾名思义，请不要随意运行。<br /></span></span><br />警告：以任何方式散布Minecraft修改版客户端和服务器端的行为原则上均违反EULA。<br />```</code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Jan 2022, 20:16:31  with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 22 Jan 2022, 21:13:59  with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
