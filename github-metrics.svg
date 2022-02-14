@@ -1568,7 +1568,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>linwalker/render-html-to-pdf</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">render the webpages to pdf and downlowd</div>
@@ -1609,7 +1609,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>parallax/jsPDF</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Client-side JavaScript PDF generation for everyone.</div>
@@ -1662,7 +1662,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Eternaldeath/ChinasInternetChronicle</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">通过时间轴的方式展示中国互联网的变迁</div>
@@ -1709,7 +1709,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TulvL/cloudflare-ip-tester</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Cloudflare IP Batch Test Tool including HTTP respond time, region detection and download speed test</div>
@@ -2259,7 +2259,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="179.28333333333333 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="179.38666666666666 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2281,7 +2281,7 @@
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 2735 times</div>
+                                <div class="text">Repositories have been deployed 2736 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -2830,7 +2830,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Feb 2022, 11:14:19  with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 14 Feb 2022, 12:26:53  with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
