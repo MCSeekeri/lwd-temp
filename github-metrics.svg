@@ -1573,7 +1573,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>RimoChan/Night-Beam</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">【Night Beam】去除文本马赛克的随机算法！</div>
@@ -1626,7 +1626,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>eKoopmans/html2pdf.js</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Client-side HTML-to-PDF rendering using pure JS.</div>
@@ -1679,7 +1679,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>linwalker/render-html-to-pdf</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">render the webpages to pdf and downlowd</div>
@@ -1720,7 +1720,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>parallax/jsPDF</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Client-side JavaScript PDF generation for everyone.</div>
@@ -2269,7 +2269,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="181.35 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="181.45333333333335 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2291,7 +2291,7 @@
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 2755 times</div>
+                                <div class="text">Repositories have been deployed 2756 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -2840,7 +2840,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Feb 2022, 06:20:02  with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 15 Feb 2022, 07:15:38  with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
