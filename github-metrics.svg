@@ -1551,7 +1551,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>madnight/githut</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Github Language Statistics</div>
@@ -1604,7 +1604,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dropbox/hackpad</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Hackpad is a web-based realtime wiki.</div>
@@ -1657,7 +1657,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>square/retrofit</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A type-safe HTTP client for Android and the JVM</div>
@@ -1710,7 +1710,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>chen310/NeteaseCloudMusicTasks</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">网易云音乐自动任务：刷等级、云贝、云豆等</div>
@@ -1731,7 +1731,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                         </svg>
-                                        914
+                                        915
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2226,7 +2226,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="210.69666666666666 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="210.8 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2248,7 +2248,7 @@
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 3039 times</div>
+                                <div class="text">Repositories have been deployed 3040 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -2745,35 +2745,35 @@
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
                             From
-                            <span class="blue space">lwd-temp/deploy-code-server</span>
+                            <span class="blue space">lwd-temp/BYR-Navi</span>
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            Rm unused
+                            Update links.yml
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">655f9e38</span>
-                            <span class="code">app.json</span>
-                            <span class="code"><span class="snippet additions">++0</span> <span class="snippet deletions">--24</span></span>
+                            <span class="code">4b66307c</span>
+                            <span class="code">_data/links.yml</span>
+                            <span class="code"><span class="snippet additions">++0</span> <span class="snippet deletions">--14</span></span>
                         </div>
                     </section>
                 </div>
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1,24 +0,0 @@</span><br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">{<br /></span><span class="token prefix deleted">-</span><span class="token line">"name": "code-server-heroku",<br /></span><span class="token prefix deleted">-</span><span class="token line">"description": "A code-server environment designed to run in your Heroku",<br /></span><span class="token prefix deleted">-</span><span class="token line">"repository": "https://github.com/cdr/deploy-code-server",<br /></span><span class="token prefix deleted">-</span><span class="token line">"logo": "https://avatars.githubusercontent.com/u/1375?s=200&amp;v=4",<br /></span><span class="token prefix deleted">-</span><span class="token line">"keywords": [<br /></span><span class="token prefix deleted">-</span><span class="token line">  "node",<br /></span><span class="token prefix deleted">-</span><span class="token line">  "express",<br /></span><span class="token prefix deleted">-</span><span class="token line">  "code-server",<br /></span><span class="token prefix deleted">-</span><span class="token line">  "cloud-development",<br /></span><span class="token prefix deleted">-</span><span class="token line">  "heroku-api"<br /></span><span class="token prefix deleted">-</span><span class="token line">],<br /></span><span class="token prefix deleted">-</span><span class="token line">"env": {<br /></span><span class="token prefix deleted">-</span><span class="token line">  "GIT_REPO": {<br /></span><span class="token prefix deleted">-</span><span class="token line">    "description": "URL of a git repo to clone (optional)",<br /></span><span class="token prefix deleted">-</span><span class="token line">    "required": false<br /></span><span class="token prefix deleted">-</span><span class="token line">  },<br /></span><span class="token prefix deleted">-</span><span class="token line">  "PASSWORD": {<br /></span><span class="token prefix deleted">-</span><span class="token line">    "description": "Create a password to log in to code-server with",<br /></span><span class="token prefix deleted">-</span><span class="token line">    "required": true<br /></span><span class="token prefix deleted">-</span><span class="token line">  }<br /></span><span class="token prefix deleted">-</span><span class="token line">},<br /></span><span class="token prefix deleted">-</span><span class="token line">"stack": "container"<br /></span><span class="token prefix deleted">-</span><span class="token line">}</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -48,25 +48,11 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged"></span><span class="token line">     style: basic<br /></span><span class="token prefix unchanged"></span><span class="token line">     url: https://hello.lwd-temp.top/<br /></span></span><br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">   - name: siteproxy服务（即将移除）<br /></span><span class="token prefix deleted">-</span><span class="token line">     icon: globe<br /></span><span class="token prefix deleted">-</span><span class="token line">     style: basic<br /></span><span class="token prefix deleted">-</span><span class="token line">     url: https://summer-glade-43ad.lwd-temp.workers.dev/<br /></span><span class="token prefix deleted">-</span><span class="token line"><br /></span></span><span class="token unchanged"><span class="token prefix unchanged"></span><span class="token line">   - name: '基于BYR-Navi的自用导航页'<br /></span><span class="token prefix unchanged"></span><span class="token line">     icon: compass outline<br /></span><span class="token prefix unchanged"></span><span class="token line">     style: basic<br /></span><span class="token prefix unchanged"></span><span class="token line">     url: https://navi.lwd-temp.top/<br /></span></span><br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">   - name: 'xxx'<br /></span><span class="token prefix deleted">-</span><span class="token line">     style: basic<br /></span><span class="token prefix deleted">-</span><span class="token line">     url: https://gh.lwd-temp.top/xxx<br /></span><span class="token prefix deleted">-</span><span class="token line"><br /></span><span class="token prefix deleted">-</span><span class="token line">   - name: Code在线IDE<br /></span><span class="token prefix deleted">-</span><span class="token line">     icon: code<br /></span><span class="token prefix deleted">-</span><span class="token line">     style: basic<br /></span><span class="token prefix deleted">-</span><span class="token line">     url: https://code.lwd-temp.top/<br /></span><span class="token prefix deleted">-</span><span class="token line"><br /></span></span><span class="token unchanged"><span class="token prefix unchanged"></span><span class="token line">   - name: Etherpad临时便签<br /></span><span class="token prefix unchanged"></span><span class="token line">     icon: sticky note<br /></span><span class="token prefix unchanged"></span><span class="token line">     style: basic</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Feb 2022, 16:24:20  with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 25 Feb 2022, 17:17:34  with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
