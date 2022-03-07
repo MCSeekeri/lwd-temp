@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3474" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3656" class="">
     <defs>
         <style/>
     </defs>
@@ -1568,7 +1568,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jorangreef/sudo-prompt</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Run a command using sudo, prompting the user with an OS dialog if necessary.</div>
@@ -1621,7 +1621,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>yichengchen/clashX</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1675,7 +1675,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SoftEtherVPN/Win10Pcap</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Win10Pcap: WinPcap for Windows 10 (NDIS 6.x driver model)</div>
@@ -1728,7 +1728,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>CareyWang/sub-web</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2264,7 +2264,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="240.97333333333333 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="241.07666666666665 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2286,7 +2286,7 @@
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 3332 times</div>
+                                <div class="text">Repositories have been deployed 3333 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -2791,7 +2791,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 5 Mar 2022, 14:50:28
+                            On 5 Mar 2022, 13:09:35
                         </div>
                     </section>
                 </div>
@@ -2801,29 +2801,29 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            Fix typo
+                            fix typo
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">570b6562</span>
+                            <span class="code">060363e2</span>
                             <span class="code">_posts/2022-03-05-ipc-president-andrew-parsons-beijing-2022-opening-ceremony-speech.md</span>
-                            <span class="code"><span class="snippet additions">++1</span> <span class="snippet deletions">--1</span></span>
+                            <span class="code"><span class="snippet additions">++2</span> <span class="snippet deletions">--2</span></span>
                         </div>
                     </section>
                 </div>
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -73,7 +73,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"> Ahead of these Games, hundreds of thousands of facilities have been made barrier free. <br /></span><span class="token prefix unchanged">·</span><span class="token line">-在这些奥运会之前，数十万个设施已经实现无障碍。<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">在这些奥运会之前，成百上千个设施已经实现无障碍。<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"> The venues are magnificent. The organisation is extraordinary. The Covid-19 prevention and control — safe and efficient.<br /></span><span class="token prefix unchanged">·</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -65,7 +65,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"> Change Starts with Sport.  Not only can it bring harmony, but it can be a catalyst to transforming the lives of people, cities and countries.<br /></span><span class="token prefix unchanged">·</span><span class="token line">-改变始于运动。它不仅能带来和谐，还能成为改变人们、城市和国家生活的催化剂。<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">改变始于运动。它不仅能带来和谐，还能成为改变人们生活、城市和国家的催化剂。<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"> As the first city to stage both the summer and winter Paralympics, Beijing is proof of this.<br /></span><span class="token prefix unchanged">·</span><span class="token line">@@ -97,7 +97,7 @@ Paralympians, there is an important moment in your lives when, because of sport,<br /></span><span class="token prefix unchanged">·</span><span class="token line"> If 15% of world’s population has a disability, Paralympians show to the remaining 85% of people that persons with disabilities can do whatever they want, if given the opportunity.<br /></span><span class="token prefix unchanged">·</span><span class="token line">-如果世界上有 15% 的人口有残疾，残奥会向剩下的 85% 的人表明，如果有机会，残疾人可以做到他们想做的任何事。<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">如果世界上有 15% 的人口有残疾，残奥会运动员们向剩下的 85% 的人表明，如果有机会，残疾人可以做到他们想做的任何事。<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"> This is why the IPC and the International Disability Alliance launched WeThe15 alongside a coalition of 18 international organisations.<br /></span><span class="token prefix unchanged">·</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Mar 2022, 11:15:07  with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 7 Mar 2022, 12:28:58  with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
